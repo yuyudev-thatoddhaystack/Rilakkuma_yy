@@ -1,0 +1,6 @@
+Charset,UTF-8
+type,shell
+name,Rilakkuma
+directory,Rilakkuma_yy
+accept,Hydrate
+
